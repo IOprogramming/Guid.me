@@ -17,7 +17,7 @@ public class Places {
             "Lake Nasser",
             "Aswan Dam",
             "Saint Catherine's Monastery",
-            "Pyramids",
-            "Cairo Citadel"
+            "Cairo Citadel",
+            "Pyramid of Menkaure"
     };
 }
